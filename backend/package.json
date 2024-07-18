@@ -3,5 +3,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "author": "ashwini",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2",
+    "ipfs": "^0.66.1"
+  }
 }
